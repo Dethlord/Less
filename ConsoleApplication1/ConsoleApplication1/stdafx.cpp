@@ -3,6 +3,6 @@
 // stdafx.obj будет содержать предварительно откомпилированные сведения о типе
 
 #include "stdafx.h"
-#include <activation.h>//hdjffы
+#include <activation.h>//hdjаааffыпп
 // TODO: Установите ссылки на любые требующиеся дополнительные заголовки в файле STDAFX.H
 // , а не в данном файле
