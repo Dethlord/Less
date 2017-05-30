@@ -6,6 +6,7 @@
 using namespace std;
 int main()
 {
+	//комент
 	int kkk(1);
 	cin >> kkk;
     return 0;
